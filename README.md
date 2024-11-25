@@ -1,4 +1,7 @@
 # Monaco Grand Prix Ticket Reservation API
+
+# To Run the API, you need to create the database by running the Update-Database command in the Package Manager Console in Visual Studio
+
 # Use cases
 The ticket reservation system for the event "F1 Grand Prix De Monaco 2024" should enable potential customers to reserve tickets for this event. On the homepage, users can access basic information such as the race date and the participating drivers. Users can view ticket prices for specific zones and days of the race, using applied filters. In real-time, users can see the total reservation cost for the selected days and seating zones. If they qualify for the early bird offer, they will receive an additional discount. Furthermore, selecting multiple days will grant another discount. Finally, users can also apply a promo code from a friend who has already made a reservation to receive a third type of discount. After selecting the reservation details, users are required to provide personal information. A user can reserve a ticket and, in doing so, receive a unique token that can later be used to access, modify, or cancel their reservation.
 
