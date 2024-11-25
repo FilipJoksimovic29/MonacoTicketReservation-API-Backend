@@ -1,0 +1,40 @@
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.deps.json
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.runtimeconfig.json
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.pdb
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.AssemblyInfo.cs
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\refint\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.pdb
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.genruntimeconfig.cache
+C:\Users\Filip\source\repos\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\ref\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.deps.json
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.runtimeconfig.json
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.pdb
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.AssemblyInfo.cs
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\refint\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.pdb
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.genruntimeconfig.cache
+C:\Users\Filip\Documents\Raid Backup\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\ref\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.deps.json
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.runtimeconfig.json
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\bin\Debug\net8.0\RezervacijaKarata.Domain.Model.pdb
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.AssemblyInfo.cs
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\refint\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.pdb
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.genruntimeconfig.cache
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\ref\RezervacijaKarata.Domain.Model.dll
+C:\Users\Filip\Desktop\RezervacijaKarataAPI\RezervacijaKarata.Domain.Model\obj\Debug\net8.0\RezervacijaKarata.Domain.Model.csproj.AssemblyReference.cache

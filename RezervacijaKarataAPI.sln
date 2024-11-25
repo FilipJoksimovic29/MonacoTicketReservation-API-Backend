@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RezervacijaKarataAPI", "RezervacijaKarataAPI\RezervacijaKarataAPI.csproj", "{009DDEC9-4342-4C87-B831-F1BEFC6AD654}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{8C926954-EB8C-4E88-B83C-E642CEF5F845}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RezervacijaKarata.Domain.Model", "RezervacijaKarata.Domain.Model\RezervacijaKarata.Domain.Model.csproj", "{30579E94-C282-4FC4-8AE4-70A9D3F3FBB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{790F64A2-7404-4B0B-99A8-175368D39805}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RezervacijaKarata.Services", "RezervacijaKarata.Services\RezervacijaKarata.Services.csproj", "{AB7822A2-BD53-46ED-A3B8-179E71602609}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RezervacijaKarata.Services.Interfaces", "RezervacijaKarata.Services.Interfaces\RezervacijaKarata.Services.Interfaces.csproj", "{C7706C24-A119-4CF4-A785-48C73DB915FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8C976DAC-99C5-4101-9F84-8CC19ED29A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RezervacijaKarata.DataAccess", "RezervacijaKarata.DataAccess\RezervacijaKarata.DataAccess.csproj", "{CC2B0D63-3C89-4D04-8CE7-0ACCC9D59E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009DDEC9-4342-4C87-B831-F1BEFC6AD654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009DDEC9-4342-4C87-B831-F1BEFC6AD654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009DDEC9-4342-4C87-B831-F1BEFC6AD654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009DDEC9-4342-4C87-B831-F1BEFC6AD654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30579E94-C282-4FC4-8AE4-70A9D3F3FBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30579E94-C282-4FC4-8AE4-70A9D3F3FBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30579E94-C282-4FC4-8AE4-70A9D3F3FBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30579E94-C282-4FC4-8AE4-70A9D3F3FBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7822A2-BD53-46ED-A3B8-179E71602609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7822A2-BD53-46ED-A3B8-179E71602609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7822A2-BD53-46ED-A3B8-179E71602609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7822A2-BD53-46ED-A3B8-179E71602609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7706C24-A119-4CF4-A785-48C73DB915FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7706C24-A119-4CF4-A785-48C73DB915FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7706C24-A119-4CF4-A785-48C73DB915FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7706C24-A119-4CF4-A785-48C73DB915FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2B0D63-3C89-4D04-8CE7-0ACCC9D59E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2B0D63-3C89-4D04-8CE7-0ACCC9D59E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2B0D63-3C89-4D04-8CE7-0ACCC9D59E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2B0D63-3C89-4D04-8CE7-0ACCC9D59E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30579E94-C282-4FC4-8AE4-70A9D3F3FBB1} = {8C926954-EB8C-4E88-B83C-E642CEF5F845}
+		{AB7822A2-BD53-46ED-A3B8-179E71602609} = {790F64A2-7404-4B0B-99A8-175368D39805}
+		{C7706C24-A119-4CF4-A785-48C73DB915FC} = {790F64A2-7404-4B0B-99A8-175368D39805}
+		{CC2B0D63-3C89-4D04-8CE7-0ACCC9D59E61} = {8C976DAC-99C5-4101-9F84-8CC19ED29A77}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1967EDD-36D5-4314-947D-D7DEFB39FD9E}
+	EndGlobalSection
+EndGlobal
